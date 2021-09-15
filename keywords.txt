@@ -1,0 +1,3 @@
+MyLed		KEYWORD1
+setBlink	KEYWORD2
+loop		KEYWORD2
