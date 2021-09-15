@@ -1,2 +1,2 @@
 # MyLed
-This MyLed repository is created for deployment testing for Arduino Class Library. <br>Created by <strong>Pin</strong>.
+This MyLed repository is created for testing deployment the Arduino Library. <br>Created by <strong>Pin</strong>.
